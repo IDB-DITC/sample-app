@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE Employee SYSTEM "myDtdfile.dtd"[
+<!ENTITY myClass "IDB-BISEW">
+]>
+<Employee>
+  <data id="sd" subject="HTML" class="IDB" />
+  <data id="qw" subject="CS" class="&myClass;" />
+  <info myId="qw"></info>
+</Employee>

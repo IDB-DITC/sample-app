@@ -1,0 +1,18 @@
+1. School management system (Ahsan) +
+2. Recruitement System (Hanif)
+3. Account System (Fahmida)+
+4. Online sales system (Nibraj)+
+5. Micro credit system ()
+6. Task management 
+7. Blood donation system (*)
+8. Hotel management system (Omar)+
+9. Laundry shop management (Adil)+
+10. HR Payroll system (Tarif)
+11. Hospital management (Ashraf)+
+12. Toll collection system (Sabiha)+
+13. Library management system (EMON)+
+14. Transport management system
+15. CnF system
+16. Online ticket system (Rahim)+
+17. Stock Management System (Foysal)+
+

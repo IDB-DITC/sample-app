@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT Employee (info+ | data?)* >
+
+<!ELEMENT info (#PCDATA)>
+<!ELEMENT data EMPTY>
+
+<!ENTITY % sample "'CS'">
+
+<!ATTLIST data 
+id ID #REQUIRED
+class  CDATA 'IDB'
+subject (CS|SQL|HTML|XML) %sample;
+>
+
+
+<!ATTLIST info myId IDREF #REQUIRED>
